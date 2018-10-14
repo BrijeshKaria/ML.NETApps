@@ -4,8 +4,11 @@ using Microsoft.ML.Runtime.Api;
 using Microsoft.ML.Trainers;
 using Microsoft.ML.Transforms;
 using System;
-public class IrisData
-        {
+
+namespace Irisdataclassification
+{
+    public class IrisData
+    {
             [Column("0")]
             public float SepalLength;
 
@@ -21,4 +24,5 @@ public class IrisData
             [Column("4")]
             [ColumnName("Label")]
             public string Label;
-        }
+    }
+}

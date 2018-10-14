@@ -11,9 +11,8 @@ namespace Irisdataclassification
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
 
-                       // STEP 2: Create a pipeline and load your data
+            // STEP 2: Create a pipeline and load your data
             var pipeline = new LearningPipeline();
 
             // If working in Visual Studio, make sure the 'Copy to Output Directory' 
@@ -54,11 +53,5 @@ namespace Irisdataclassification
         }
     }
 
-    internal class IrisData
-    {
-        internal float SepalLength;
-        internal float SepalWidth;
-        internal float PetalLength;
-        internal float PetalWidth;
-    }
+   
 }
