@@ -1,0 +1,11 @@
+E:\SamplePrograms\MachineLearning\ML.NETApps\Irisdataclassification\obj\Debug\netcoreapp2.1\Irisdataclassification.csprojAssemblyReference.cache
+E:\SamplePrograms\MachineLearning\ML.NETApps\Irisdataclassification\obj\Debug\netcoreapp2.1\Irisdataclassification.csproj.CoreCompileInputs.cache
+E:\SamplePrograms\MachineLearning\ML.NETApps\Irisdataclassification\obj\Debug\netcoreapp2.1\Irisdataclassification.AssemblyInfoInputs.cache
+E:\SamplePrograms\MachineLearning\ML.NETApps\Irisdataclassification\obj\Debug\netcoreapp2.1\Irisdataclassification.AssemblyInfo.cs
+E:\SamplePrograms\MachineLearning\ML.NETApps\Irisdataclassification\bin\Debug\netcoreapp2.1\Irisdataclassification.deps.json
+E:\SamplePrograms\MachineLearning\ML.NETApps\Irisdataclassification\bin\Debug\netcoreapp2.1\Irisdataclassification.runtimeconfig.json
+E:\SamplePrograms\MachineLearning\ML.NETApps\Irisdataclassification\bin\Debug\netcoreapp2.1\Irisdataclassification.runtimeconfig.dev.json
+E:\SamplePrograms\MachineLearning\ML.NETApps\Irisdataclassification\bin\Debug\netcoreapp2.1\Irisdataclassification.dll
+E:\SamplePrograms\MachineLearning\ML.NETApps\Irisdataclassification\bin\Debug\netcoreapp2.1\Irisdataclassification.pdb
+E:\SamplePrograms\MachineLearning\ML.NETApps\Irisdataclassification\obj\Debug\netcoreapp2.1\Irisdataclassification.dll
+E:\SamplePrograms\MachineLearning\ML.NETApps\Irisdataclassification\obj\Debug\netcoreapp2.1\Irisdataclassification.pdb
